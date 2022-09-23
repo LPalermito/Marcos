@@ -19,4 +19,4 @@ image.close()
 file.close() 
 
 
-"""Posibilidad de convertir imagen a pdf para su impresion"""
+"""Posibilidad de convertir imagen a pdf para su impresion."""
